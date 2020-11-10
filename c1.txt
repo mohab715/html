@@ -1,4 +1,4 @@
-# Config for m1 test 2
+# Config for m1 test 2 test 3
 -pool eu1.ethermine.org:4444
 -pool2 us1.ethermine.org:4444
 -wal 0x7035024fe08150aa6903e61381ced927478ba76b.m1
