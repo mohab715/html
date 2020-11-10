@@ -1,3 +1,6 @@
 -pool eu1.ethermine.org:4444
 -pool2 us1.ethermine.org:4444
 -wal 0x7035024fe08150aa6903e61381ced927478ba76b.n13
+-pauseat 8:30
+-resumeat 23:30
+-log 0
